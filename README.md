@@ -1,6 +1,6 @@
 # MAYIN TARLASI
 
-* Oyun Kuralları : <br>
+*Oyun Kuralları :* <br>
 * Oyun metin tabanlıdır.<br>
 * Çift boyutlu diziler üzerinden oynanmalı ve MineSweeper sınıfı içerisinde tasarlanmalı.<br>
 * Matris boyutunu yani satır ve sütun sayısını kullanıcı belirlemeli.<br>
